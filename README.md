@@ -14,11 +14,17 @@ Bienvenue sur mon profil GitHub !
 ---
 
 ## Projets récents
-- **Portfolio Aldep** – galerie en ligne pour présenter mes créations
-- Projets personnels sur GitHub disponibles sur ce profil
+- **Portfolio Aldep** – galerie en ligne pour présenter mes créations  
+- [Autres projets GitHub](https://github.com/aldep2?tab=repositories) – découvrez mes expérimentations et projets personnels
 
 ---
 
 ## Contact
-- Email : ton-email@example.com
-- LinkedIn : [Ton profil LinkedIn](https://www.linkedin.com/in/tonprofil)
+- Email :alain.depre78@gmail.com 
+- LinkedIn : [Ton profil LinkedIn](www.linkedin.com/in/alain-depré-3a087677)
+
+---
+
+## Badges
+![GitHub followers](https://img.shields.io/github/followers/aldep2?label=Followers&style=social)
+![GitHub repo count](https://img.shields.io/github/repos/aldep2?style=flat-square)
