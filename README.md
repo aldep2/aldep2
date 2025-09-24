@@ -21,7 +21,7 @@ Bienvenue sur mon profil GitHub !
 
 ## Contact
 - Email :alain.depre78@gmail.com 
-- LinkedIn : [Ton profil LinkedIn](www.linkedin.com/in/alain-depré-3a087677)
+LinkedIn : [Alain Depré](https://www.linkedin.com/in/alain-depré-3a087677)
 
 ---
 
