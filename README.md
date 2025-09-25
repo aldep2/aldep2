@@ -2,7 +2,7 @@
 
 Bienvenue sur mon profil GitHub !
 
-🎨 **Mon portfolio en ligne** : [Portfolio Aldep](https://aldep2.github.io/Porfolio/)
+🎨 **Mon portfolio en ligne** : [Portfolio Aldep](https://aldep2.github.io/Portfolio/)
 
 ---
 
